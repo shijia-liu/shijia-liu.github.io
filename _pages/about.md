@@ -8,5 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-About me
+I am a first year... . My research interest... I received master's degrees in jhu... bachelors in ucla...
+
+# Recent News
+
+* August 2019. Started Northeastern
+* June 2019. Attended [NAACL](https://naacl2019.org) and gave a talk on 
+* Feb 2019. A paper titled "chinese classifier" was accepted to [NAACL 2019](https://naacl2019.org)
 
