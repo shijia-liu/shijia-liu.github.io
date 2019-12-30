@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My CV]{}
+[Click to View My CV]{http://shijia-liu.github.io/files/Shijia_CV.pdf}
