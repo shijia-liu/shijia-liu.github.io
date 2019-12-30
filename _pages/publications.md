@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<br>
+<b>[On the Idiosyncrasies of the Mandarin Chinese Classifier System](https://www.aclweb.org/anthology/N19-1415/)</b><br>
+<b>Shijia Liu</b>, Hongyuan Mei, Adina Williams and Ryan Cotterell.
+In the <i>Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2019)</i>.
