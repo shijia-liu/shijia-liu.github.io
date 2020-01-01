@@ -10,6 +10,8 @@ redirect_from:
 
 I am a first year... . My research interest... I received master's degrees in jhu... bachelors in ucla...
 
+Email: liu.shij [[at](https://en.wikipedia.org/wiki/At_sign)] husky.neu.edu
+
 # Recent News
 
 * August 2019. Started Northeastern
