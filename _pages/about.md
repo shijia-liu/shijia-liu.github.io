@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in Computer Science at [Northeastern University](https://www.khoury.northeastern.edu). My research interests are in natural language processing, machine learning and data science, broadly speaking. Prior to coming to Northeastern, I received a master's degree in computer science at the [Johns Hopkins University](https://www.cs.jhu.edu) (where I worked with [Ryan Cotterell](https://ryancotterell.github.io) on quantifying the ideosyncrasies of Chinese classifiers), a master's degree in electrical engineering at [Stanford University](https://ee.stanford.edu), and bachelor's degrees in electrical engineering and physics at [UCLA](http://www.ucla.edu).
+I am a first year Ph.D. student in Computer Science at [Northeastern University](https://www.khoury.northeastern.edu), working with [Prof. Lu Wang](https://www.ccs.neu.edu/home/luwang/). My research interests are in natural language processing, machine learning and data science, broadly speaking. Prior to coming to Northeastern, I received a master's degree in computer science at the [Johns Hopkins University](https://www.cs.jhu.edu) (where I worked with [Ryan Cotterell](https://ryancotterell.github.io) on quantifying the ideosyncrasies of Chinese classifiers), a master's degree in electrical engineering at [Stanford University](https://ee.stanford.edu), and bachelor's degrees in electrical engineering and physics at [UCLA](http://www.ucla.edu).
 
 Email: liu.shij [[at](https://en.wikipedia.org/wiki/At_sign)] husky.neu.edu
 
