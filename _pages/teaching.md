@@ -4,6 +4,12 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
+<br>
+<b>Teaching Assistant at Northeastern University</b>
+<br>
+* Programming in C++ with Professor Vidoje Mihajlovikj, Spring 2020
+
 <br>
 <b>Course Assistant at the Johns Hopkins University</b>
 <br>
