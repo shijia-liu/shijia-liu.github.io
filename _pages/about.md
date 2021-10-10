@@ -13,7 +13,7 @@ I am a 3rd year Ph.D. student in Computer Science at [Northeastern University](h
 Email: liu.shij [[at](https://en.wikipedia.org/wiki/At_sign)] northeastern.edu
 
 # Recent News
-* Dec 2020. Attended [coling](https://coling2020.org/) and gave a [talk](https://shijia-liu.github.io/talks/2019-06-05-naacl/) on code-switching in historical German books.
+* Dec 2020. Attended [coling](https://coling2020.org/) and gave a [talk](https://shijia-liu.github.io/talks/2020-12-09-coling/) on code-switching in historical German books.
 * Oct 2020. A paper titled "Detecting de minimis Code-Switching in Historical German Books" was accepted to [COLING 2020](https://coling2020.org/).
 * Sep 2020. A paper titled "Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions" was accepted to [EMNLP 2020](https://2020.emnlp.org/).
 * August 2019. Started Ph.D. studies in computer science at [Northeastern University](https://www.khoury.northeastern.edu).
