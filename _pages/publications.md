@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Tracing Accounts of Racial Terror in Historical Newspapers</b>
+<br>
+<b>Shijia Liu</b>, David A. Smith.
+In <i>New Directions in Analyzing Text as Data 2023 (TADA 2023)</i>.
+
 <b>[Detecting de minimis Code-Switching in Historical German Books](https://aclanthology.org/2020.coling-main.163/)</b>
 <br>
 <b>Shijia Liu</b>, David A. Smith.
