@@ -13,7 +13,7 @@ I am a 6th year Ph.D. student in Computer Science at [Northeastern University](h
 Email: liu.shij [[at](https://en.wikipedia.org/wiki/At_sign)] northeastern.edu
 
 # Recent News
-* January 2025. A paper titled "Through the Lens of History: Methods for Analyzing Temporal Variation in Content and Framing of State-run Chinese Newspapers" was accepted to [NAACL 2025](https://2025.naacl.org/). See you in Albuquerque!
+* January 2025. A paper titled "Through the Lens of History: Methods for Analyzing Temporal Variation in Content and Framing of State-run Chinese Newspapers" was accepted to [NAACL 2025](https://2025.naacl.org/) (main conference). See you in Albuquerque!
 * September 2023. An abstract titled "Tracing Accounts of Racial Terror in Historical Newspapers" was accpeted to [TADA 2023](https://tada2023.org/).
 * June 2022. Started as an Applied Scientist Intern at Amazon.
 * December 2020. Attended [coling](https://coling2020.org/) and gave a [talk](https://shijia-liu.github.io/talks/2020-12-09-coling/) on code-switching in historical German books.
