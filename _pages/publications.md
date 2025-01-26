@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Through the Lens of History: Methods for Analyzing Temporal Variation in Content and Framing of State-run Chinese Newspapers</b>
+<br>
+<b>Shijia Liu</b>, David A. Smith.
+In the <i>Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)</i>.
+
 <b>Tracing Accounts of Racial Terror in Historical Newspapers</b>
 <br>
 <b>Shijia Liu</b>, David A. Smith.
