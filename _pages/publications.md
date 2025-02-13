@@ -15,6 +15,11 @@ In the <i>Proceedings of the 2025 Annual Conference of the Nations of the Americ
 <b>Shijia Liu</b>, David A. Smith.
 In <i>New Directions in Analyzing Text as Data 2023 (TADA 2023)</i>.
 
+<b>[Adapting Transformer Language Models for Predictive Typing in Brain-Computer Interfaces](https://arxiv.org/abs/2305.03819/)</b>
+<br>
+<b>Shijia Liu</b>, David A. Smith.
+In <i>arXiv (2023)</i>.
+
 <b>[Detecting de minimis Code-Switching in Historical German Books](https://aclanthology.org/2020.coling-main.163/)</b>
 <br>
 <b>Shijia Liu</b>, David A. Smith.
