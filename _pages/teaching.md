@@ -8,6 +8,8 @@ author_profile: true
 <br>
 <b>Teaching Assistant at Northeastern University</b>
 <br>
+* Natural Language Processing with Professor Silvio Amir, Fall 2025
+* Object Oriented Design with Professor Vidoje Mihajlovikj, Summer 2025
 * Programming in C++ with Professor Vidoje Mihajlovikj, Spring 2020
 
 <br>
