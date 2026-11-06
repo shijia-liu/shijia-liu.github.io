@@ -12,7 +12,7 @@ I am a final year Ph.D. student in Computer Science at [Northeastern University]
 
 Email: liu.shij [[at](https://en.wikipedia.org/wiki/At_sign)] northeastern.edu
 
-# I'm actively looking for full time opportunities related to AI/Data Science. Location flexible.
+## I'm actively looking for full time opportunities related to AI/Data Science. Location flexible.
 
 # Recent News
 * November 6th, 2026. I successfully defended my dissertation!
