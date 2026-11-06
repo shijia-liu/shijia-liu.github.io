@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b> Tracing Temporal Changes of Racial Terror Accounts in Historical U.S. Newspapers</b>
+<br>
+<b>Shijia Liu</b>, David A. Smith.
+In <i>New Directions in Analyzing Text as Data 2026 (TADA 2026)</i>.
+
 <b>[Through the Lens of History: Methods for Analyzing Temporal Variation in Content and Framing of State-run Chinese Newspapers](https://aclanthology.org/2025.naacl-long.414/)</b>
 <br>
 <b>Shijia Liu</b>, David A. Smith.
