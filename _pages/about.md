@@ -12,7 +12,11 @@ I am a final year Ph.D. student in Computer Science at [Northeastern University]
 
 Email: liu.shij [[at](https://en.wikipedia.org/wiki/At_sign)] northeastern.edu
 
+# I'm actively looking for full time opportunities related to AI/Data Science. Location flexible.
+
 # Recent News
+* November 6th, 2026. I successfully defended my dissertation!
+* October 2026. A paper titled "Changes in the Coverage of East Asians in Historical American Print Media" was accepted to [CHR 2027](https://2027.computational-humanities-research.org/). Kudos to the first author [Samir](https://www.linkedin.com/in/samir-rangwalla-9611482b0/), who in every way exceeds my expectation for a high school student!
 * September 2026. I will present a lightning talk titled "Tracing Temporal Changes of Racial Terror Accounts in Historical U.S. Newspapers" at [TADA 2026](https://tada2026.org/). See you in Berkeley!
 * January 2025. A paper titled "Through the Lens of History: Methods for Analyzing Temporal Variation in Content and Framing of State-run Chinese Newspapers" was accepted to [NAACL 2025](https://2025.naacl.org/) (main conference). See you in Albuquerque!
 * September 2023. An abstract titled "Tracing Accounts of Racial Terror in Historical Newspapers" was accepted to [TADA 2023](https://tada2023.org/).
