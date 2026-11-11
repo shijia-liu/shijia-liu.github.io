@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Changes in the Coverage of East Asians in Historical American Print Media</b>
+<br>
+Samir Rangwalla, <b>Shijia Liu</b>.
+In <i>Computational Humanities Research 2027 (CHR 2027)</i>.
+
 <b> Tracing Temporal Changes of Racial Terror Accounts in Historical U.S. Newspapers</b>
 <br>
 <b>Shijia Liu</b>, David A. Smith.
